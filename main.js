@@ -90,5 +90,5 @@ uniqueUsernames.addUser("john_doe"); // Ця дія не змінить набі
 console.log(`Існує 'john_doe': ${uniqueUsernames.exists("john_doe")}`); // true
 console.log(`Кількість унікальних імен: ${uniqueUsernames.count()}`); // 2
 
-// Експорт для використання в тестах
+// Експорт для використання в
 //export { CalorieCalculator, UniqueUsernames };
